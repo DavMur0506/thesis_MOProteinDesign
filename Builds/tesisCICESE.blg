@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tesisCICESE.aux
+The style file: apa7.bst
+Database file #1: literaturaTesis.bib
+Warning--empty publisher in APAAmericanPsychiatricAssociation2019
+Warning--empty publisher in FAOFoodandAgricultureOrganization2012
+Warning--can't use both author and editor fields in NationalResearchCouncilandInstituteofMedicin2005
+You've used 20 entries,
+            2665 wiz_defined-function locations,
+            761 strings with 8955 characters,
+and the built_in function-call counts, 7958 in all, are:
+= -- 783
+> -- 281
+< -- 40
++ -- 93
+- -- 89
+* -- 642
+:= -- 1344
+add.period$ -- 70
+call.type$ -- 20
+change.case$ -- 140
+chr.to.int$ -- 32
+cite$ -- 23
+duplicate$ -- 357
+empty$ -- 568
+format.name$ -- 117
+if$ -- 1616
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 22
+newline$ -- 109
+num.names$ -- 65
+pop$ -- 145
+preamble$ -- 1
+purify$ -- 143
+quote$ -- 0
+skip$ -- 267
+stack$ -- 0
+substring$ -- 438
+swap$ -- 96
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 106
+warning$ -- 3
+while$ -- 61
+width$ -- 0
+write$ -- 279
+(There were 3 warnings)

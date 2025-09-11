@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.9)  9 SEP 2025 12:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.9)  9 SEP 2025 20:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/ADMIN/Documents/Dev/Maestria/Tesis/borrador_tesis_01.tex
-(c:/Users/ADMIN/Documents/Dev/Maestria/Tesis/borrador_tesis_01.tex
+**c:/Users/ADMIN/Documents/Dev/Maestria/Tesis/thesis_MOProteinDesign/borrador/borrador_tesis_01.tex
+(c:/Users/ADMIN/Documents/Dev/Maestria/Tesis/thesis_MOProteinDesign/borrador/borrador_tesis_01.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
 (c:/texlive/2025/texmf-dist/tex/latex/base/article.cls
@@ -642,12 +642,12 @@ Package rerunfilecheck Info: File `borrador_tesis_01.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  24497 strings out of 467800
- 463218 string characters out of 5436062
+ 463314 string characters out of 5436062
  871920 words of memory out of 5000000
  52767 multiletter control sequences out of 15000+600000
  642878 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,11n,105p,526b,467s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,11n,105p,558b,467s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb>
 Output written on borrador_tesis_01.pdf (1 page, 159637 bytes).
 PDF statistics:

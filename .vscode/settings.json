@@ -1,0 +1,4 @@
+    {
+        "latex-workshop.latex.outDir": "./Builds",
+        "latex-workshop.latex.cleanDir": "./CleanBuilds"
+    }
