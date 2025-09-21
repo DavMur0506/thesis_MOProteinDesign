@@ -6,45 +6,45 @@ Database file #1: literaturaTesis.bib
 Warning--empty publisher in APAAmericanPsychiatricAssociation2019
 Warning--empty publisher in FAOFoodandAgricultureOrganization2012
 Warning--can't use both author and editor fields in NationalResearchCouncilandInstituteofMedicin2005
-You've used 20 entries,
+You've used 25 entries,
             2665 wiz_defined-function locations,
-            761 strings with 8955 characters,
-and the built_in function-call counts, 7958 in all, are:
-= -- 783
-> -- 281
-< -- 40
-+ -- 93
-- -- 89
-* -- 642
-:= -- 1344
-add.period$ -- 70
-call.type$ -- 20
-change.case$ -- 140
-chr.to.int$ -- 32
-cite$ -- 23
-duplicate$ -- 357
-empty$ -- 568
-format.name$ -- 117
-if$ -- 1616
+            805 strings with 10193 characters,
+and the built_in function-call counts, 10490 in all, are:
+= -- 1013
+> -- 424
+< -- 60
++ -- 149
+- -- 141
+* -- 893
+:= -- 1780
+add.period$ -- 89
+call.type$ -- 25
+change.case$ -- 190
+chr.to.int$ -- 37
+cite$ -- 28
+duplicate$ -- 435
+empty$ -- 720
+format.name$ -- 174
+if$ -- 2099
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 22
-newline$ -- 109
-num.names$ -- 65
-pop$ -- 145
+missing$ -- 28
+newline$ -- 138
+num.names$ -- 80
+pop$ -- 187
 preamble$ -- 1
-purify$ -- 143
+purify$ -- 194
 quote$ -- 0
-skip$ -- 267
+skip$ -- 318
 stack$ -- 0
-substring$ -- 438
-swap$ -- 96
+substring$ -- 601
+swap$ -- 110
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 106
+type$ -- 134
 warning$ -- 3
-while$ -- 61
+while$ -- 78
 width$ -- 0
-write$ -- 279
+write$ -- 353
 (There were 3 warnings)

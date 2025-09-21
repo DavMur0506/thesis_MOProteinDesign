@@ -26,6 +26,11 @@ Cordero~Esquivel, B. (1988).
 \newblock Evaluación de tres dietas artificiales para {Procambarus} clarkii ({Girard}): ({Decapoda}-cambaridae), en condiciones de laboratorio.
 \newblock [Tesis de {Maestría} en Ciencias, Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California].
 
+\bibitem[\protect\astroncite{Deb}{2001}]{Deb2001}
+Deb, K. (2001).
+\newblock {\em Multi-Objective Optimization Using Evolutionary Algorithms}.
+\newblock John Wiley \& Sons, Chichester, UK.
+
 \bibitem[\protect\astroncite{Delgado~Argote \& Sánchez~Carballido}{1990}]{DelgadoArgote1990}
 Delgado~Argote, L.~A. \& Sánchez~Carballido, E.~A. (1990).
 \newblock Análisis tectónico del sistema transpresivo neogénico entre {Macuspana}, {Tabasco}, y {Puerto} Ángel, {Oaxaca}.
@@ -61,6 +66,24 @@ Field, D.~B., Baumgartner, T.~R., Charles, C.~D., Ferreira-Bartrina, V., \& Ohma
 García-Valdez, M., Trujillo, L., de~Vega, F., Merelo~Guervós, J.~J., \& Olague, G. (2013).
 \newblock {EvoSpace}: {A} {Distributed} {Evolutionary} {Platform} {Based} on the {Tuple} {Space} {Model}.
 \newblock In Esparcia-Alcázar, A.~I., editor, {\em Applications of {Evolutionary} {Computation}}, Lecture {Notes} in {Computer} {Science},  499--508, Berlin, Heidelberg. Springer Berlin Heidelberg.
+
+\bibitem[\protect\astroncite{Huang et~al.}{2016}]{Huang2016}
+Huang, P., Boyken, S.~E., \& Baker, D. (2016).
+\newblock The coming of age of de novo protein design.
+\newblock {\em Nature}, 537(7620), 320--327.
+\newblock \url{https://doi.org/10.1038/nature19946}.
+
+\bibitem[\protect\astroncite{Kuhlman et~al.}{2003}]{Kuhlman2003}
+Kuhlman, B., Dantas, G., Ireton, G.~C., Varani, G., Stoddard, B.~L., \& Baker, D. (2003).
+\newblock Design of a novel globular protein fold with atomic-level accuracy.
+\newblock {\em Science}, 302(5649), 1364--1368.
+\newblock \url{https://doi.org/10.1126/science.1089427}.
+
+\bibitem[\protect\astroncite{Langan et~al.}{2019}]{Langan2019}
+Langan, R.~A., Boyken, S.~E., Ng, A.~H., Samson, J.~A., Dods, G., Westbrook, A.~M., Nguyen, T.~H., Lajoie, M.~J., Chen, Z., Berger, S., Mulligan, V.~K., Dueber, J.~E., Novak, W. R.~P., El{-}Samad, H., \& Baker, D. (2019).
+\newblock De novo design of bioactive protein switches.
+\newblock {\em Nature}, 572(7768), 205--210.
+\newblock \url{https://doi.org/10.1038/s41586-019-1432-8}.
 
 \bibitem[\protect\astroncite{Lloyd}{2005}]{Lloyd2005}
 Lloyd, C.-B. (2005).
@@ -105,5 +128,11 @@ Trujillo, L. \& Olague, G. (2006).
 \newblock Synthesis of interest point detectors through genetic programming.
 \newblock In {\em Proceedings of the 8th annual conference on {Genetic} and evolutionary computation - {GECCO} '06},  887--894, New York, New York, USA. ACM Press.
 \newblock \url{https://doi.org/10.1145/1143997.1144151}.
+
+\bibitem[\protect\astroncite{Woolfson}{2021}]{WOOLFSON2021167160}
+Woolfson, D.~N. (2021).
+\newblock A brief history of de novo protein design: Minimal, rational, and computational.
+\newblock {\em Journal of Molecular Biology}, 433(20), 167160.
+\newblock From Protein Sequence to Structure at Warp Speed: How Alphafold Impacts Biology, \url{https://doi.org/https://doi.org/10.1016/j.jmb.2021.167160}.
 
 \end{thebibliography}

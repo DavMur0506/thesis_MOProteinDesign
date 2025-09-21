@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.9)  9 SEP 2025 21:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.9)  20 SEP 2025 23:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1400,7 +1400,7 @@ LaTeX Info: Redefining \% on input line 1.
 Cap\'{\i }tulo 1
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 10.
+(hyperref)                than one, level fixed on input line 14.
 
 
 
@@ -1408,7 +1408,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.24 
+l.20 
       [1
 
 ]
@@ -1417,8 +1417,10 @@ l.24
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.37 \newpage
-              [2]) (./Capitulo02.tex
+l.41 \newpage
+              [2]
+
+[3]) (./Capitulo02.tex
 Cap\'{\i }tulo 2
 
 Underfull \hbox (badness 10000) in paragraph at lines 8--10
@@ -1435,7 +1437,7 @@ Package pdftex.def Info: ./Figures/logoCicese2009.pdf  used on input line 22.
 (pdftex.def)             Requested size: 284.52756pt x 142.26491pt.
 
 
-[3
+[4
 
 ]) (./Capitulo03.tex
 Cap\'{\i }tulo 3
@@ -1445,34 +1447,34 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 
 
 
-[4
+[5
 
 ]) (./Capitulo04.tex
 Cap\'{\i }tulo 4
 
 
-[5
+[6
 
 ]) (./Capitulo05.tex
 Cap\'{\i }tulo 5
 
 
-[6
+[7
 
 ]) (Builds/tesisCICESE.bbl
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 5.
 
 
-[7
+[8
 
 ]) (./Anexo.tex
 
-[8]
+[9]
  
 )
 
-[9
+[10
 
 ] (Builds/tesisCICESE.aux
 LaTeX Info: Redefining \. on input line 12.
@@ -1497,18 +1499,18 @@ Package rerunfilecheck Info: File `tesisCICESE.out' has not changed.
 (rerunfilecheck)             Checksum: E76E454E2FA6A7ED15C1943209809161;3140.
  ) 
 Here is how much of TeX's memory you used:
- 24109 strings out of 467800
- 437197 string characters out of 5436062
- 943576 words of memory out of 5000000
- 52307 multiletter control sequences out of 15000+600000
+ 24120 strings out of 467800
+ 437344 string characters out of 5436062
+ 944727 words of memory out of 5000000
+ 52317 multiletter control sequences out of 15000+600000
  638001 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 76i,13n,117p,2583b,676s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 76i,13n,117p,2583b,671s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi0700.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb>
-Output written on Builds/tesisCICESE.pdf (19 pages, 161400 bytes).
+Output written on Builds/tesisCICESE.pdf (20 pages, 165199 bytes).
 PDF statistics:
- 289 PDF objects out of 1000 (max. 8388607)
- 242 compressed objects within 3 object streams
- 45 named destinations out of 1000 (max. 500000)
+ 299 PDF objects out of 1000 (max. 8388607)
+ 251 compressed objects within 3 object streams
+ 46 named destinations out of 1000 (max. 500000)
  187 words of extra memory for PDF output out of 10000 (max. 10000000)
 
