@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.9)  20 SEP 2025 23:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.9)  21 SEP 2025 19:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1408,8 +1408,8 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.20 
-      [1
+l.21 E
+      n esta sección se profundiza en el conocimiento acerca del tema y la ... [1
 
 ]
 
@@ -1417,8 +1417,8 @@ l.20
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.41 \newpage
-              [2]
+l.37     \item S
+                er demasiado amplios y generalizados. [2]
 
 [3]) (./Capitulo02.tex
 Cap\'{\i }tulo 2
@@ -1499,18 +1499,18 @@ Package rerunfilecheck Info: File `tesisCICESE.out' has not changed.
 (rerunfilecheck)             Checksum: E76E454E2FA6A7ED15C1943209809161;3140.
  ) 
 Here is how much of TeX's memory you used:
- 24120 strings out of 467800
- 437344 string characters out of 5436062
- 944727 words of memory out of 5000000
- 52317 multiletter control sequences out of 15000+600000
+ 24121 strings out of 467800
+ 437355 string characters out of 5436062
+ 944752 words of memory out of 5000000
+ 52318 multiletter control sequences out of 15000+600000
  638001 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  76i,13n,117p,2583b,671s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsi0700.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb>
-Output written on Builds/tesisCICESE.pdf (20 pages, 165199 bytes).
+Output written on Builds/tesisCICESE.pdf (20 pages, 165984 bytes).
 PDF statistics:
- 299 PDF objects out of 1000 (max. 8388607)
- 251 compressed objects within 3 object streams
+ 300 PDF objects out of 1000 (max. 8388607)
+ 252 compressed objects within 3 object streams
  46 named destinations out of 1000 (max. 500000)
  187 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -135,4 +135,10 @@ Woolfson, D.~N. (2021).
 \newblock {\em Journal of Molecular Biology}, 433(20), 167160.
 \newblock From Protein Sequence to Structure at Warp Speed: How Alphafold Impacts Biology, \url{https://doi.org/https://doi.org/10.1016/j.jmb.2021.167160}.
 
+\bibitem[\protect\astroncite{Zhang}{2009}]{Zhang2009}
+Zhang, Y. (2009).
+\newblock Protein structure prediction: when is it useful?
+\newblock {\em Current Opinion in Structural Biology}, 19(2), 145--155.
+\newblock \url{https://doi.org/10.1016/j.sbi.2009.02.005}.
+
 \end{thebibliography}

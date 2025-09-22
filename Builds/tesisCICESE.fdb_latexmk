@@ -1,23 +1,23 @@
 # Fdb version 4
-["bibtex Builds/tesisCICESE"] 1758424284.03987 "Builds/tesisCICESE.aux" "Builds/tesisCICESE.bbl" "Builds/tesisCICESE" 1758436645.78937 0
+["bibtex Builds/tesisCICESE"] 1758507541.91125 "Builds/tesisCICESE.aux" "Builds/tesisCICESE.bbl" "Builds/tesisCICESE" 1758507545.20536 0
   "./apa7.bst" 1758422067 27606 f9e6232acb308b5e6ccde0b993f5c0a5 ""
-  "./literaturaTesis.bib" 1758424280 11358 97ded704b4baa057fe8803f85fce5be0 ""
-  "Builds/tesisCICESE.aux" 1758436644 7051 edcce4ce2298f0ba551b9fd2fd46b936 "pdflatex"
+  "./literaturaTesis.bib" 1758504979 11642 019ac98df6816a03f532fe82972de004 ""
+  "Builds/tesisCICESE.aux" 1758507543 7138 15aaad518ea5d47a24c5463f1b130706 "pdflatex"
   (generated)
   "Builds/tesisCICESE.bbl"
   "Builds/tesisCICESE.blg"
   (rewritten before read)
-["pdflatex"] 1758436641.08676 "c:/Users/ADMIN/Documents/Dev/Maestria/Tesis/thesis_MOProteinDesign/tesisCICESE.tex" "Builds/tesisCICESE.pdf" "tesisCICESE" 1758436645.79027 0
+["pdflatex"] 1758507542.34227 "c:/Users/ADMIN/Documents/Dev/Maestria/Tesis/thesis_MOProteinDesign/tesisCICESE.tex" "Builds/tesisCICESE.pdf" "tesisCICESE" 1758507545.20616 0
   "Abstract.tex" 1758422067 259 cc108684639be7e0558546228e3fa261 ""
   "Agradecimientos.tex" 1758422901 524 28b52f5b722ea5cd64ff3fd4210168db ""
   "Anexo.tex" 1758422067 1064 ef089f467604fb947ccf7f25307f3bf3 ""
-  "Builds/tesisCICESE.aux" 1758436644 7051 edcce4ce2298f0ba551b9fd2fd46b936 "pdflatex"
-  "Builds/tesisCICESE.bbl" 1758424284 8054 c9397de5b0e8520bf8cccf1e19b80697 "bibtex Builds/tesisCICESE"
-  "Builds/tesisCICESE.lof" 1758436644 236 b464973dec752d123a2ee69a5af7edfb "pdflatex"
-  "Builds/tesisCICESE.lot" 1758436644 237 597abd1431763342ff206aa2c47af302 "pdflatex"
-  "Builds/tesisCICESE.out" 1758436644 3140 e76e454e2fa6a7ed15c1943209809161 "pdflatex"
-  "Builds/tesisCICESE.toc" 1758436644 1955 17ca377a0295829842b54895d0f6d46d "pdflatex"
-  "Capitulo01.tex" 1758436639 4971 741e1dc50d9cb66b3f31476f5c389ad7 ""
+  "Builds/tesisCICESE.aux" 1758507543 7138 15aaad518ea5d47a24c5463f1b130706 "pdflatex"
+  "Builds/tesisCICESE.bbl" 1758507542 8317 1669d578a2f96db1e8f3abd2fff1ee22 "bibtex Builds/tesisCICESE"
+  "Builds/tesisCICESE.lof" 1758507543 236 b464973dec752d123a2ee69a5af7edfb "pdflatex"
+  "Builds/tesisCICESE.lot" 1758507543 237 597abd1431763342ff206aa2c47af302 "pdflatex"
+  "Builds/tesisCICESE.out" 1758507543 3140 e76e454e2fa6a7ed15c1943209809161 "pdflatex"
+  "Builds/tesisCICESE.toc" 1758507543 1955 17ca377a0295829842b54895d0f6d46d "pdflatex"
+  "Capitulo01.tex" 1758507540 5893 4989f37d020ee0cc39908dc83b4f7b95 ""
   "Capitulo02.tex" 1758422067 1661 3131585d472f378e17bc294e6cb7a5c4 ""
   "Capitulo03.tex" 1758422067 1901 b20522693f1d59343f156f0637c0e2d3 ""
   "Capitulo04.tex" 1758422067 710 4fc2d362ca78081ff58e45c69a244342 ""
